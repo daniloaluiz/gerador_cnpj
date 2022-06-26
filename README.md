@@ -3,7 +3,7 @@
   <p align="center">Projeto gerador CNPJs válidos com Python, gerados em um CSV</p>
 </p>
 
-<sub>Onde você me encontra também<br> 
+<sub>Onde você me encontra<br> 
     [<img src = "https://img.shields.io/badge/github-black.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/daniloaluiz)
     [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/daniloaluiz/) 
     [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/daniloaluiz/) 
