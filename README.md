@@ -27,3 +27,5 @@ COMA_SEPARATOR = ','
 # Como gerar novo arquivo
 Basta entrar na pasta do projeto e rodar o comando {python3 gerador.py} no terminal
 
+## :pushpin: Licença
+[MIT License](/LICENSE) <br>
