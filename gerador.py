@@ -1,10 +1,15 @@
 from datetime import datetime
 from cnpj import Cnpj
 
-INITIAL_CNPJ = 46208711
-QUANTITY = 100000
+# 8 primeiros dígitos do CNPJ a ser gerado, esse é o valor que será incrementado, caso precise fazer outra sequência basta trocar esse valor
+INITIAL_CNPJ = 46208711 
+# Quantidade de CNPJs a serem gerados
+QUANTITY = 10000
 
-DIR_OUTPUT = 'C:\\Dev\\'
+
+# Diretório onde será gerado o arquivo
+DIR_OUTPUT = ''
+# Caractere de separação entre as colunas do .csv
 COMA_SEPARATOR = ','
 
 if __name__ == "__main__":
